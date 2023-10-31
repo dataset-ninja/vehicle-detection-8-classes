@@ -1,5 +1,3 @@
+The **Vehicle Detection 8 Classes** Dataset is a robust collection designed for comprehensive object detection tasks, specifically concentrating on identifying and localizing vehicles. Comprising a substantial 8218 images, the dataset boasts an impressive 26098 annotated objects distributed among 8 distinct classes, encompassing vehicles like *car*, *light_motor_vehicle*, *multi-axle*, along with others such as *auto*, *truck*, *bus*, *motorcycle*, and *tractor*. With a focus on traffic analysis, each image within the dataset is equipped with boundary-box annotations, allowing for precise delineation and identification of vehicles, offering a valuable resource for applications related to traffic monitoring, object detection, and machine learning model training specifically tailored for traffic-related scenarios.
 
-Sample image template:
-<img src="https://github.com/dataset-ninja/gland-segmentation/assets/78355358/f158d0dd-71d5-41a2-aba5-4a5f57d54c35" alt="image" width="800">
-
-<span style="font-size: smaller; font-style: italic;">Image description.</span>
+<i> Please note, that highway_3776_2020-08-26 and highway_3708_2020-08-26 images have wrong labels. </i>
