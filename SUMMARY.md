@@ -1,4 +1,4 @@
-**Vehicle Detection 8 Classes** is a dataset for an object detection task. Possible applications of the dataset could be in the smart city and surveillance industries. 
+**Vehicle Detection 8 Classes** is a dataset for an object detection task. Possible applications of the dataset could be in the traffic monitoring industry. 
 
 The dataset consists of 8218 images with 26098 labeled objects belonging to 8 different classes including *car*, *light_motor_vehicle*, *multi-axle*, and other: *auto*, *truck*, *bus*, *motorcycle*, and *tractor*.
 
