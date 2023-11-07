@@ -43,7 +43,7 @@ GITHUB_URL: str = "https://github.com/dataset-ninja/vehicle-detection-8-classes"
 ##################################
 ### * Optional after uploading ###
 ##################################
-DOWNLOAD_ORIGINAL_URL: Optional[Union[str, dict]] = ["https://www.kaggle.com/datasets/sakshamjn/vehicle-detection-8-classes-object-detection"]
+DOWNLOAD_ORIGINAL_URL: Optional[Union[str, dict]] = "https://www.kaggle.com/datasets/sakshamjn/vehicle-detection-8-classes-object-detection"
 # Optional link for downloading original dataset (e.g. "https://some.com/dataset/download")
 
 CLASS2COLOR: Optional[Dict[str, List[str]]] = None
