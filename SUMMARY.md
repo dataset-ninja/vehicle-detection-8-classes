@@ -4,4 +4,6 @@ The dataset consists of 8218 images with 26098 labeled objects belonging to 8 di
 
 Images in the Vehicle Detection 8 Classes dataset have bounding box annotations. There are 18 (0% of the total) unlabeled images (i.e. without annotations). There is 1 split in the dataset: *train* (8218 images). The dataset was released in 2020.
 
-<img src="https://github.com/dataset-ninja/vehicle-detection-8-classes/raw/main/visualizations/poster.png">
+Here are the visualized examples for the classes:
+
+[Dataset classes](https://github.com/dataset-ninja/vehicle-detection-8-classes/raw/main/visualizations/classes_preview.webm)
